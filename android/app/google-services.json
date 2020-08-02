@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585039787262",
+    "firebase_url": "https://student-system-b8063.firebaseio.com",
+    "project_id": "student-system-b8063",
+    "storage_bucket": "student-system-b8063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585039787262:android:c9557380e4907d4a6221af",
+        "android_client_info": {
+          "package_name": "com.course.studentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585039787262-cni1vgvmin46rqsreru1r4suje29g1b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLp2UwZBPmD66RGSILlHDop2rE6zs-UoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585039787262-cni1vgvmin46rqsreru1r4suje29g1b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
